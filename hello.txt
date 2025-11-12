@@ -12,4 +12,5 @@ hello!!!!
 hello!!!!
 hello!!!!  --master modify
 hello!!!!  hot-fix modify
-modify author:h9flash;  context: modify version .1
+modify author:h9flash;  content: modify version .1
+modify author:h7flash 1980590988@qq.com;  content: modify version .2
